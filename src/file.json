@@ -1,0 +1,40 @@
+{
+    "name": "Way Too Grown",
+    "description": "Thie is the description of the stuff",
+    "image": "https://arweave.net/w3LBv1ilseXLPARfmElSG_PP1MMT8MC5sMIo5bQxLmk",
+    "attributes": [
+      {
+        "trait_type": "trib",
+        "value": "Value 1",
+        "display_type": "string"
+      },
+      {
+        "trait_type": "Trait 2",
+        "value": "Value 3",
+        "display_type": "string"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://arweave.net/RkVNyAyRXArZTKyUodYUPak8xhmqWmaWr26OTK6zXZQ",
+          "type": "image/jpeg",
+          "cdn_uri": "https://arweave.net/RkVNyAyRXArZTKyUodYUPak8xhmqWmaWr26OTK6zXZQ"
+        },
+        {
+          "uri": "https://arweave.net/1m0KfLFqi1eyj8P7Ko8UYFRQ4Hf4VJfWbYL0Z7KFRFc",
+          "type": "audio/mp3",
+          "cdn_uri": "https://arweave.net/1m0KfLFqi1eyj8P7Ko8UYFRQ4Hf4VJfWbYL0Z7KFRFc"
+        },
+        {
+          "uri": "https://arweave.net/GXOE4UNSapef4eUfva-fe8qi9vHcb0igA6KAl_nt02w",
+          "type": "video/mp4",
+          "cdn_uri": "https://arweave.net/GXOE4UNSapef4eUfva-fe8qi9vHcb0igA6KAl_nt02w"
+        }
+      ],
+      "category": "multimedia"
+    },
+    "animation_url": "https://arweave.net/1m0KfLFqi1eyj8P7Ko8UYFRQ4Hf4VJfWbYL0Z7KFRFc",
+    "audio_url": "https://arweave.net/1m0KfLFqi1eyj8P7Ko8UYFRQ4Hf4VJfWbYL0Z7KFRFc",
+    "youtube_url": "https://www.youtube.com/watch?v=8LULtlDBziA"
+  }
